@@ -4,7 +4,7 @@ by [Joyseedog](http://www.iseedog.com)
 
 ## DESCRIPTION ##
 
-  ![pick_gif](https://github.com/joyseedog/JQCustomPickView/blob/master/gif/picker_gif.gif)
+[![Screenshot](https://github.com/joyseedog/JQCustomPickView/blob/master/gif/picker_gif.gif)](https://github.com/joyseedog/JQCustomPickView/blob/master)
 
  * This demo provides a simple way to customizable PickerView for your iOS app.
 
