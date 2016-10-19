@@ -3,6 +3,9 @@
 by [Joyseedog](http://www.iseedog.com)
 
 ## DESCRIPTION ##
+
+  ![pick_gif](https://github.com/joyseedog/JQCustomPickView/blob/master/gif/picker_gif.gif)
+
  * This demo provides a simple way to customizable PickerView for your iOS app.
 
  * build in xcode8 with ARC.
