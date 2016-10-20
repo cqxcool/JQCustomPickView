@@ -260,7 +260,7 @@
 
 - (UIButton *)cancelButton {
     if (!_cancelButton) {
-        _cancelButton= [[UIButton alloc] initWithFrame:CGRectMake(0, 0, 48*SCALE_6, 45*SCALE_6)];
+        _cancelButton= [[UIButton alloc] initWithFrame:CGRectMake(0, 0, 60*SCALE_6, 45*SCALE_6)];
         [_cancelButton setTitle:@"Cancel" forState:UIControlStateNormal];
         _cancelButton.titleLabel.font = [UIFont systemFontOfSize:15*SCALE_6];
         [_cancelButton setTitleColor:self.textColor forState:UIControlStateNormal];
