@@ -34,7 +34,7 @@
     NSArray *leftArray = [NSArray arrayWithObjects:@"A",@"B",@"C",@"D",@"E", nil];
     NSArray *rightArray =  [NSArray arrayWithObjects:@"AA",@"BB",@"CC",@"DD",@"EE", nil];
     
-    JQCustomPicker *jqCustomPicker = [[JQCustomPicker alloc] initWithSelectedBackColor:[UIColor blueColor] textColor:[UIColor whiteColor] plainColor:[UIColor blueColor] title:@"JQ Picker" leftArray:leftArray rightArray:rightArray];
+    JQCustomPicker *jqCustomPicker = [[JQCustomPicker alloc] initWithSelectedBackColor:[UIColor colorWithRed:49.0/255 green:167.0/255 blue:133.0/255 alpha:1] textColor:[UIColor whiteColor] plainColor:[UIColor colorWithRed:49.0/255 green:167.0/255 blue:133.0/255 alpha:1] title:@"JQ Picker" leftArray:leftArray rightArray:rightArray];
     jqCustomPicker.delegate = self;
     [jqCustomPicker showInView:self.view];
 }
